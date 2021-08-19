@@ -28,3 +28,4 @@ class kat(models.Model):
     k_km = models.DecimalField(max_digits=7, decimal_places=3)
     kat = models.CharField(max_length=3)
 
+# 13
